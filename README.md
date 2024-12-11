@@ -15,7 +15,9 @@ Created a route with all the error and edge case handling to retrieve the latest
 Working Routes:
 
 https://fetch-crypto.fly.dev/stats?coin=matic
+
 https://fetch-crypto.fly.dev/stats?coin=bitcoin
+
 https://fetch-crypto.fly.dev/stats?coin=ethereum
 
 ### Task 3
@@ -27,7 +29,9 @@ Created a route with all the error and edge case handling to retrieve the latest
 Working Routes:
 
 https://fetch-crypto.fly.dev/deviation?coin=matic
+
 https://fetch-crypto.fly.dev/deviation?coin=bitcoin
+
 https://fetch-crypto.fly.dev/deviation?coin=ethereum
 
 ## Optional Tasks
