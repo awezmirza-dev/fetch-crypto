@@ -1,6 +1,3 @@
-
-# Assignment @KoinX
-
 ## Tasks Completed
 
 ### Task 1
