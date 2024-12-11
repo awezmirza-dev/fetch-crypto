@@ -46,11 +46,9 @@ Used the MongoDB Atlas to remotely host our Database.
 Deploy your backend using platforms like Heroku or any cloud platform like AWS, GCP or Azure and expose the API to the public.
 
 #### Approach:
-Spinned up the AWS EC2 instance for seamlessly running our backend server.
+Deployed on Fly IO for seamlessly running our backend server.
 
-Public Server Link: http://16.171.132.40:3000
-
-Test Link: http://16.171.132.40:3000/ping
+Test Link: https://fetch-crypto.fly.dev/ping
 
 ## Note Points
 
